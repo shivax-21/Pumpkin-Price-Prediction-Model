@@ -46,4 +46,5 @@ pip install numpy pandas scikit-learn
   * Visualize the results to understand the relationship between different features and the predicted prices.
 Run the Jupyter Notebook or Python scripts provided in the repository to execute these steps.
 ## Dataset
-The dataset contains information on different pumpkin varieties, packaging types, cities, and historical prices across different months. The data was collected from various sources and preprocessed to ensure quality and accuracy (Download it from within in the repository ``).
+The dataset contains information on different pumpkin varieties, packaging types, cities, and historical prices across different months. The data was collected from various sources and preprocessed to ensure quality and accuracy (Download it from within in the repository `PUMPKINS-SET.csv.csv`, use it after renaming it ;) ).
+
