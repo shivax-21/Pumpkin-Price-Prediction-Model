@@ -4,6 +4,7 @@ This repository contains a machine learning model designed to predict pumpkin pr
 * [Overview](#Overview)
 * [Features](#Features)
 * [Tools & Libraries](#Tools-&-Libraries)
+* [Installation](#Installation)
 ## Overview
 The Pumpkin Price Prediction model aims to forecast pumpkin prices across different months in various cities in the USA using machine learning techniques. The model leverages linear and polynomial regression models to capture both simple and complex patterns within the data.
 
@@ -34,3 +35,13 @@ cd Movie-Recommender-Model-
 ``` bash
 pip install numpy pandas scikit-learn
 ```
+## Usage
+1. Data Preprocessing:
+* Clean and preprocess the dataset to handle missing values, outliers, and categorical encoding.
+2. Model Training:
+* Train the linear and polynomial regression models using the preprocessed data.
+3. Model Evaluation:
+* Evaluate the models' performance using appropriate metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
+4. Visualization:
+* Visualize the results to understand the relationship between different features and the predicted prices.
+Run the Jupyter Notebook or Python scripts provided in the repository to execute these steps.
