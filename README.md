@@ -46,5 +46,12 @@ pip install numpy pandas scikit-learn
   * Visualize the results to understand the relationship between different features and the predicted prices.
 Run the Jupyter Notebook or Python scripts provided in the repository to execute these steps.
 ## Dataset
-The dataset contains information on different pumpkin varieties, packaging types, cities, and historical prices across different months. The data was collected from various sources and preprocessed to ensure quality and accuracy (Download it from within in the repository `PUMPKINS-SET.csv.csv`, use it after renaming it ;) ).
-
+The dataset contains information on different pumpkin varieties, packaging types, cities, and historical prices across different months. The data was collected from various sources and preprocessed to ensure quality and accuracy (Download it from within in the repository `PUMPKINS-SET.csv.csv`, use it after renaming it as this media is licensed by Microsoft ;) ).
+## Results
+The models were evaluated based on their ability to predict pumpkin prices accurately. The polynomial regression model showed a higher accuracy compared to the linear model, suggesting that the relationship between features and pumpkin prices is not strictly linear.
+## Future Work
+* Feature Engineering: Explore additional features like weather conditions, market demand, and seasonal trends to improve model accuracy.
+* Advanced Modeling: Experiment with other machine learning models, such as Random Forest, Gradient Boosting, and Neural Networks.
+* Real-Time Prediction: Develop a real-time prediction system that updates prices dynamically based on incoming data.
+## Contributing
+* Contributions are welcome! If you have suggestions or improvements, please create an issue or submit a pull request.
