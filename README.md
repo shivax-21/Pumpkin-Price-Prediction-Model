@@ -20,3 +20,17 @@ Pumpkin prices can vary significantly based on factors such as variety, city, an
 * Pandas: To handle and explore the data.
 * Numpy: For all the number crunching.
 * Scikit-learn: To build and evaluate the models.
+## Installation
+To run this project locally, follow these steps:
+1. Clone the repository:
+ ```bash
+git clone https://github.com/your-username/Pumpkins-Price-Prediction-Model.git
+ ```
+2. Navigate to the project folder:
+``` bash
+cd Movie-Recommender-Model-
+```
+3. Install the necessary libraries:
+``` bash
+pip install numpy pandas scikit-learn
+```
