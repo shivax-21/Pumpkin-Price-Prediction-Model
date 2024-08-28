@@ -37,11 +37,11 @@ pip install numpy pandas scikit-learn
 ```
 ## Usage
 1. Data Preprocessing:
-* Clean and preprocess the dataset to handle missing values, outliers, and categorical encoding.
-2. Model Training:
-* Train the linear and polynomial regression models using the preprocessed data.
+  * Clean and preprocess the dataset to handle missing values, outliers, and categorical encoding.
+3. Model Training:
+  * Train the linear and polynomial regression models using the preprocessed data.
 3. Model Evaluation:
-* Evaluate the models' performance using appropriate metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
+  * Evaluate the models' performance using appropriate metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
 4. Visualization:
-* Visualize the results to understand the relationship between different features and the predicted prices.
+  * Visualize the results to understand the relationship between different features and the predicted prices.
 Run the Jupyter Notebook or Python scripts provided in the repository to execute these steps.
