@@ -3,7 +3,7 @@ This repository contains a machine learning model designed to predict pumpkin pr
 ## Table of Content
 * [Overview](#Overview)
 * [Features](#Features)
-* [Tools & Libraries](#Tools&Libraries)
+* [Tools & Libraries](#Tools-&-Libraries)
 ## Overview
 The Pumpkin Price Prediction model aims to forecast pumpkin prices across different months in various cities in the USA using machine learning techniques. The model leverages linear and polynomial regression models to capture both simple and complex patterns within the data.
 
