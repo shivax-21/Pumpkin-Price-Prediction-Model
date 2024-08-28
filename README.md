@@ -7,4 +7,10 @@ Pumpkin prices can vary significantly based on factors such as variety, city, an
 ## Features 
 * Linear Regression: A model to understand the linear relationship between the features and pumpkin prices.
 * Polynomial Regression: A more complex model to capture non-linear relationships and improve prediction accuracy.
-
+## Tools & Libraries
+#### Here’s what I used to bring this project to life:
+* Python: The core programming language.
+* Jupyter Notebook: For coding and experimenting.
+* Pandas: To handle and explore the data.
+* Numpy: For all the number crunching.
+* Scikit-learn: To build and evaluate the models.
