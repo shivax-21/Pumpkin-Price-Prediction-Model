@@ -9,6 +9,8 @@ The Pumpkin Price Prediction model aims to forecast pumpkin prices across differ
 
 Pumpkin prices can vary significantly based on factors such as variety, city, and packaging type. By analyzing historical price data, the model seeks to provide an accurate and reliable price prediction model that can be used by farmers, retailers, and market analysts to make informed decisions.
 ## Features 
+* Data Analysis: In-depth analysis of various features affecting pumpkin prices.
+* Visualization: Graphical representations of data trends and model performance.
 * Linear Regression: A model to understand the linear relationship between the features and pumpkin prices.
 * Polynomial Regression: A more complex model to capture non-linear relationships and improve prediction accuracy.
 ## Tools & Libraries
